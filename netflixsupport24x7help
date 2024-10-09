@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Netflix Template</title>
+    <style>
+        body { background-color: black; color: white; font-family: Arial, sans-serif; }
+        .header { text-align: center; padding: 20px; }
+        .logo { color: red; font-size: 50px; }
+        .main-content { padding: 50px 0; text-align: center; }
+        .tv-image { /* Add styles for TV image here */ }
+        .contact-info { background-color: #333333; padding: 20px 0; text-align: center; }
+    </style>
+</head>
+<body>
+
+<div class="header">
+    <div class="logo">NETFLIX</div>
+</div>
+
+<div class="main-content">
+    <h2>Enjoy on your TV.</h2>
+    <p>Watch on Smart TVs, Playstation, Xbox,<br>Chromecast, Apple TV, Blu-ray players and more.</p>
+</div>
+
+<div class="contact-info">
+    <p>Netflix Questions? Call +1-877-431-4234</p>
+    <p><a href="#" style="color:white;">Netflix.com/Questions?Call+1-877-431-4234</a></p>
+</div>
+
+</body>
+</html>
